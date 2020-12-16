@@ -2,6 +2,7 @@ fun main() {
     //taking input from the user 
     //print("Enter side 1 : ")
     //val a = readLine()
+    //var n = a.toInt()
     val a=10 
     val b=9 
     val c=11
